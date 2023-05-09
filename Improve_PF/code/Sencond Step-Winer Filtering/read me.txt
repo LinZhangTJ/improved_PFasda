@@ -1,0 +1,9 @@
+1. filter_C: Filtering the determined parameters.
+
+2. filter_res: Filtering the random parameters.
+
+3. vector2cs.m：transform SHC vector (3717*1) to CS (61*61)
+
+4. get_scaleM.m: get scale matrix when calculating signal covariance matrix.
+
+The code of "gmt_grid2cs" can be found from https://link.springer.com/article/10.1007/s12145-018-0368-0

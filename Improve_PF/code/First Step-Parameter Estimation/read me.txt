@@ -1,0 +1,7 @@
+least_square: without considering the random signals, the results can used as the initial values of constrain Kalman.
+
+Constrain Kalman: Taking account into random signals. The first step of improved parameter filtering.
+
+v_gc2mc: Converts geoid coefficients (gc) to mass coefficients (mc).
+
+Notice: The orders of SHCs with the size of 3717*1: S22,S21,C20,C21,C22,S33,S32,S31,C30,C31,C32,C33...S3717,3717...C3717,0...C3717,3717
